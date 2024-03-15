@@ -1,6 +1,6 @@
-#MY NEOVIM CONFIG 
+# MY NEOVIM CONFIG 
 
-##Prerequisites
+## Prerequisites
 
 neovim 0.9.0+
 
